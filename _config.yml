@@ -1,6 +1,6 @@
 
 title: Udey Rishi
-url: 'http://www.udeyrishi.com'
+url: 'https://www.udey.dev'
 baseurl: '' #change it according to your repository name
 
 
@@ -18,9 +18,9 @@ tagline: Sofware Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: me@udeyrishi.com
+email: me@udey.dev
 # phone: 012 345 6789
-website: udeyrishi.com
+website: udey.dev
 linkedin: udeyrishi
 github: udeyrishi
 twitter: '@udeyrishi'
