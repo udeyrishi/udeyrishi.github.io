@@ -1,6 +1,6 @@
 
 title: Udey Rishi
-url: 'https://www.udey.dev'
+url: 'https://udey.dev'
 baseurl: '' #change it according to your repository name
 
 
@@ -20,7 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: me@udey.dev
 # phone: 012 345 6789
-website: www.udey.dev
+website: udey.dev
 linkedin: udeyrishi
 github: udeyrishi
 twitter: '@udeyrishi'
